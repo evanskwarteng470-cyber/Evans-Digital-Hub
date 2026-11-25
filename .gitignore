@@ -1,0 +1,17 @@
+# Protect all order and customer records
+*order*.txt
+*Order*.txt
+ORDERS*.txt
+
+# python temporary files
+__pycahe__/
+*.pyc
+
+# virtual environment 
+.venv/
+
+# Private configuration
+.env
+
+*.txt
+
